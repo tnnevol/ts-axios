@@ -1,6 +1,6 @@
 # TypeScript 从零到axios的封装
 
-这个项目是基于[TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter)[]的脚手架开发
+这个项目是基于[TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter)的脚手架开发
 
 ## 目录文件介绍
 _TypeScript library starter_  生成的目录结构如下：
